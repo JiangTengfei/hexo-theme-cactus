@@ -142,8 +142,8 @@ disqus:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: false
-  id: xxx
+  enabled: true
+  id: UA-113798946-1
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
